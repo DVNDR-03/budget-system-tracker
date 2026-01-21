@@ -1,2 +1,2 @@
-# budget-system-tracker
-Budget system tracker website
+# Amazon-clone
+Amazon front web page 
