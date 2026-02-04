@@ -1,2 +1,2 @@
 # Amazon-clone
-Amazon front web page 
+amzon front web page 
